@@ -1,0 +1,9 @@
+System,L1_Access,L2_Access,L3_Access,MFA_Required,Audit_Log_Enabled
+HR Portal,Read,Read/Write,Full,No,Yes
+Finance System,No Access,Read,Read/Write,Yes,Yes
+InfoSec Dashboard,No Access,Read,Full,Yes,Yes
+IT Ticketing,Read,Read/Write,Full,No,No
+EA Tools,No Access,Read,Full,No,No
+Analytics Platform,No Access,Read,Full,Yes,Yes
+Email,Yes,Yes,Yes,No,No
+VPN,No,Yes,Yes,Yes,Yes
