@@ -1,0 +1,9 @@
+System_Name,Type,Hosted,Version,Data_Classification,Last_Updated,Owner_Dept,Integration_Points
+HR Portal,Web App,On-Premise,3.2.1,Confidential,Jan 2024,HR,HR<->Finance
+Finance System,ERP,Cloud(Azure),SAP S/4 HANA,Highly Confidential,Mar 2024,Finance,Finance<->HR
+InfoSec Dashboard,Dashboard,Cloud(AWS),v2.0,Confidential,Nov 2023,InfoSec,InfoSec<->IT
+IT Ticketing,Web App,On-Premise,ServiceNow,Internal,Feb 2024,IT Operations,IT<->All
+EA Tools,SaaS,Cloud(Azure),LeanIX 5.x,Internal,Dec 2023,Enterprise Architecture,EA<->IT
+Analytics Platform,BI Tool,Cloud(AWS),Power BI,Confidential,Apr 2024,Data Analytics,"Analytics<->HR,Finance"
+Email Server,Mail Server,On-Premise,Exchange 2016,Internal,2019,IT Operations,All
+VPN Gateway,Network,On-Premise,Cisco ASA 9.x,Internal,2020,IT Operations,All
